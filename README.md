@@ -11,7 +11,7 @@ Saya adalah seorang Web Developer yang antusias dalam membangun aplikasi web yan
 ---
 
 ### 💻 Tech Stack Favorit
-`PHP` | `Laravel` | `JavaScript` | `Tailwind CSS` | `MySQL/PostgreSQL` | `Python`
+`PHP` | `Laravel` | `JavaScript` | `Tailwind CSS` | `MySQL/PostgreSQL` | `Python` | `C` | `C++`
 
 ---
 
