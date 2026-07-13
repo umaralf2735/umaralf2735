@@ -16,6 +16,4 @@ Saya adalah seorang Web Developer yang antusias dalam membangun aplikasi web yan
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=umaralf2735&show_icons=true&theme=radium" alt="Umar's GitHub Stats" />
-</p>
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umaralf2735&show_icons=true&theme=radium)
