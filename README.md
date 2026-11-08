@@ -16,8 +16,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umaralf2735&theme=github_dark" alt="Umar GitHub Summary Card" width="100%" />
-  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=umaralf2735&label=profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
