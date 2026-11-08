@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋 Halo, Saya Umar (umaralf2735)</h2>
-  <p><em>Mahasiswa Informatika • Junior Web Developer</em></p>
+  <p><em>Informatics Student at Telkom University • Junior Web Developer</em></p>
 </div>
 
 ---
@@ -16,9 +16,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umaralf2735&theme=github_dark" alt="GitHub Summary Card" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umaralf2735&theme=github_dark" alt="Umar GitHub Summary Card" width="100%" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=umaralf2735&label=profile%20views&color=3b82f6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=umaralf2735&label=profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
