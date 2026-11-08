@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋 Halo, Saya Umar (umaralf2735)</h2>
-  <p><em>Mahasiswa Informatika • Web & Fullstack Developer</em></p>
+  <p><em>Mahasiswa Informatika • Junior Web Developer</em></p>
 </div>
 
 ---
